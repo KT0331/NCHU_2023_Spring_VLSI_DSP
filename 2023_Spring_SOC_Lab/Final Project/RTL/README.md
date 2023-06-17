@@ -1,2 +1,0 @@
-# RTL  
-Hardware Implementation
